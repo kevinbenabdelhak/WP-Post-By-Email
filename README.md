@@ -67,4 +67,4 @@ Oui, il vous suffit d’ajouter une image en pièce jointe dans votre e-mail :
 
 ## Support
 
-Retrouvez la documentation complète ou posez vos questions sur [OpenAI](https://openai.com) (ou votre propre site si besoin).
+Retrouvez la documentation complète ou posez vos questions sur [Kevin Benabdelhak](https://kevin-benabdelhak.fr/)
