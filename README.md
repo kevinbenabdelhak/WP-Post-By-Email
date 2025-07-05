@@ -1,6 +1,6 @@
 # WP Post by Email
 
-**Contributors:** openai  
+**Contributors:** kevinbenabdelhak  
 **Tags:** email, publication, imap, article, automatique, image à la une, media  
 **Requires at least:** 5.0  
 **Tested up to:** 6.5.3  
